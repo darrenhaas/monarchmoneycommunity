@@ -179,3 +179,4 @@ Don't forget to use a password unique to your Monarch account and to enable mult
 
 - [mmoney-cli](https://github.com/theFong/mmoney-cli) - Access your MonarchMoney data via CLI
 - [monarchmoney-typed](https://github.com/jeeftor/monarchmoney-typed) - MonarchMoney Home Assistant Integration
+- [monarch-mcp-server](https://github.com/robcerda/monarch-mcp-server) - Model Context Protocol (MCP) server for integrating with Monarch Money.
